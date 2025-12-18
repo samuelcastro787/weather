@@ -83,7 +83,7 @@ Parâmetros utilizados:
 
 ## 📸 Demonstração
 
-[Preview](/img/preview2.png)
+![Preview](/img/preview2.png)
 
 ---
 
