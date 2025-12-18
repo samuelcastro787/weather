@@ -73,9 +73,9 @@ Parâmetros utilizados:
 
 ```
 📁 weather
-│── weather.html
-│── weather.css
-│── weather.js
+│── index.html
+│── style.css
+│── main.js
 │── README.md
 ```
 
