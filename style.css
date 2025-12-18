@@ -7,6 +7,11 @@
     --color1: rgb(87, 131, 250); /* Cor principal do fundo */
 }
 
+/* Impede a rolagem da tela */
+html {
+    overflow-y: hidden;
+}
+
 /* Reset de estilos padrão do navegador */
 * {
     margin: 0;
